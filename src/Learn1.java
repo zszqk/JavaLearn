@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+/**
+ * 这是一个石头剪刀布游戏的类
+ */
 public class Learn1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
