@@ -1,7 +1,7 @@
 public class Learn2 {
     public static void main(String[] args) {
         /**
-         * 求圆周率PI
+         * ..求圆周率PI
          */
         double pi = 0;
         for (double i=1;i<=1000;i++) {
